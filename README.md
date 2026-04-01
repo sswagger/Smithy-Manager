@@ -21,3 +21,17 @@
 * Author
 	* Sam Swagger
 	* Created for a class at [MSCS](https://www.southeastmn.edu/Index.aspx)
+
+
+# Future Plans for this project
+
+* Get the connection string to recognize the .mdf and .ldf files using a relative path (see note below).
+* Add taxes to the users profits.
+* Make the report page more comprehensive.
+
+
+# Project Story
+
+
+# Note
+The connection string looks for files *%USERPROFILE%/SmithyManagerDB.mdf* and *%USERPROFILE%/SmithyManager_log.ldf* .  These database files are included under *Mining Company Manager/DB*.

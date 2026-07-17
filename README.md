@@ -1,4 +1,4 @@
-﻿# Smithy Manager
+# Smithy Manager
 * Description
   * Manages a Mining/Smithy company using Windows forms
   * Utilizes timer function to add interest to the manager
@@ -32,7 +32,7 @@
 
 # Project Story
 I created this project as a final project for a Database Application Development class at MSCS. 
-The user must hire, mine, and sell items while keeping the entities from buring down, being stolen, etc.
+The user must hire, mine, and sell items while keeping the entities from burning down, being stolen, etc.
 This application shows the usage of Microsoft SQL Server and Windows Forms as well as object-oriented skils and C# knowledge.
 
 

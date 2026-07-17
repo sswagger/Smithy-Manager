@@ -33,7 +33,7 @@
 # Project Story
 I created this project as a final project for a Database Application Development class at MSCS. 
 The user must hire, mine, and sell items while keeping the entities from burning down, being stolen, etc.
-This application shows the usage of Microsoft SQL Server and Windows Forms as well as object-oriented skils and C# knowledge.
+This application shows the usage of Microsoft SQL Server and Windows Forms as well as object-oriented skills and C# knowledge.
 
 
 # Note
